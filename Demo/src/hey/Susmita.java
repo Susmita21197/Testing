@@ -7,10 +7,3 @@ public class Susmita {
 }
 
 
-public class Gaurav{
-	
-}
-
-public class Gaurav{
-	// hello hello hello
-}
